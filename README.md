@@ -1,2 +1,5 @@
 # membadut-demi-og
-Sesuai judul
+NOT WORKING ANYMORE
+```
+Quotes beserta tools untuk automasi chat discord
+```
